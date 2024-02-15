@@ -9,3 +9,9 @@ touch <name>
 create directory:
 
 mkdir directory
+
+serum-anchor? Difference?
+
+Base58 to encode and decode wallets private keys
+
+https://explorer.solana.com/tx/gPArVEe4DzV8yzDJpMUn33c2p8u2QGu7SNpsVecqWkYFUf5YDQ68KnTfEBJQ8pg9SoncQ5Cy8DY6joG6KQiqrtd?cluster=devnet
